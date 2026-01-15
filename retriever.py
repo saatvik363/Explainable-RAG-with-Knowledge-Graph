@@ -86,7 +86,7 @@ def retriever():
             return None, None
 
     # Search
-    query = input("What is question you want to ask: ")
+    query = input("What is question you want to ask: ") 
     
     if not query.strip():
         print("Query cannot be empty!")
