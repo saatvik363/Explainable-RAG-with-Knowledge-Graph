@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Data & Database (Don't upload these!)
+faiss_index/
+data/
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
