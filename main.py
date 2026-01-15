@@ -1,0 +1,4 @@
+from npl_processor import nlp_graph_builder
+from answer_generator import funcanswergenerator
+nlp_graph_builder()
+funcanswergenerator()
